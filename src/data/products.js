@@ -1,0 +1,42 @@
+export const products = [
+  {
+    id: 1,
+    name: "Wireless Headphones",
+    description: "Bluetooth over-ear headphones with noise cancellation.",
+    status: "Active",
+    price: 99.99,
+    category: "Electronics",
+  },
+  {
+    id: 2,
+    name: "Smart Watch",
+    description: "Fitness tracking and message notifications.",
+    status: "Inactive",
+    price: 149.99,
+    category: "Wearables",
+  },
+  {
+    id: 3,
+    name: "Gaming Mouse",
+    description: "Ergonomic mouse with RGB lighting.",
+    status: "Active",
+    price: 49.99,
+    category: "Electronics",
+  },
+  {
+    id: 4,
+    name: "Running Shoes",
+    description: "Comfortable and durable shoes for running.",
+    status: "Active",
+    price: 79.99,
+    category: "Footwear",
+  },
+  {
+    id: 5,
+    name: "Yoga Mat",
+    description: "Non-slip mat for yoga and exercise.",
+    status: "Inactive",
+    price: 29.99,
+    category: "Fitness",
+  },
+];
