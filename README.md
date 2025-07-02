@@ -41,3 +41,9 @@ src/
 │ └── index.jsx (Home)
 
 ## Netlify link
+**admin**
+https://mellifluous-queijadas-adf440.netlify.app/admin/products
+**Home**
+https://mellifluous-queijadas-adf440.netlify.app/
+**Shop now**
+https://mellifluous-queijadas-adf440.netlify.app/shop-now
