@@ -4,7 +4,11 @@
 
 ---
 
-## 📦 Project Structure Guidelines
+## Project Objective:
+
+Implement a responsive Data Table with search filtering, and build two pages (Home and Shop Now) based on the Figma design given.
+
+## 📦Project Structure
 
 src/
 

@@ -91,6 +91,13 @@ export default function AdminLayout({ children }) {
               <FaFileExport className="text-orange-500" />
               Export
             </Link>
+            <Link
+              to="/"
+              className="flex items-center gap-3 px-6 py-2 hover:bg-gray-100"
+            >
+              <FaGlobe className="text-orange-500" />
+              Home Page
+            </Link>
           </nav>
         </div>
 
